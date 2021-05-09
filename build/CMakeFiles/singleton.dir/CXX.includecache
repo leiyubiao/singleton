@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/agent.h
+memory
+-
+
+../include/world.h
+agent.h
+../include/agent.h
+vector
+-
+memory
+-
+iostream
+-
+
+/home/leiyubiao/singleton/src/agent.cpp
+agent.h
+/home/leiyubiao/singleton/src/agent.h
+world.h
+/home/leiyubiao/singleton/src/world.h
+
+/home/leiyubiao/singleton/src/main.cpp
+iostream
+-
+memory
+-
+world.h
+/home/leiyubiao/singleton/src/world.h
+
+/home/leiyubiao/singleton/src/world.cpp
+world.h
+/home/leiyubiao/singleton/src/world.h
+

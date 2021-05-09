@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/singleton.dir/src/world.cpp.o CMakeFiles/singleton.dir/src/agent.cpp.o CMakeFiles/singleton.dir/src/main.cpp.o  -o singleton 
