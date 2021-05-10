@@ -1,8 +1,11 @@
 # singleton
+
 解决以下两个问题：
+
 1. 类world与agent相互引用的问题。
 2. 单例模式中使用shared_ptr导致构造函数没有办法私有化的问题。
 
+```cpp
 shared_ptr<World> World::GetWorldPtr()
 {
     if (world_ptr_ == nullptr)
@@ -13,3 +16,5 @@ shared_ptr<World> World::GetWorldPtr()
     }
     return world_ptr_;
 }
+```
+
