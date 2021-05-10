@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/leiyubiao/singleton/src/agent.cpp" "/home/leiyubiao/singleton/build/CMakeFiles/singleton.dir/src/agent.cpp.o"
-  "/home/leiyubiao/singleton/src/main.cpp" "/home/leiyubiao/singleton/build/CMakeFiles/singleton.dir/src/main.cpp.o"
-  "/home/leiyubiao/singleton/src/world.cpp" "/home/leiyubiao/singleton/build/CMakeFiles/singleton.dir/src/world.cpp.o"
+  "/home/nio/singleton/src/agent.cpp" "/home/nio/singleton/build/CMakeFiles/singleton.dir/src/agent.cpp.o"
+  "/home/nio/singleton/src/main.cpp" "/home/nio/singleton/build/CMakeFiles/singleton.dir/src/main.cpp.o"
+  "/home/nio/singleton/src/world.cpp" "/home/nio/singleton/build/CMakeFiles/singleton.dir/src/world.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,3 +1,3 @@
-/home/leiyubiao/singleton/build/CMakeFiles/rebuild_cache.dir
-/home/leiyubiao/singleton/build/CMakeFiles/edit_cache.dir
-/home/leiyubiao/singleton/build/CMakeFiles/singleton.dir
+/home/nio/singleton/build/CMakeFiles/rebuild_cache.dir
+/home/nio/singleton/build/CMakeFiles/singleton.dir
+/home/nio/singleton/build/CMakeFiles/edit_cache.dir
